@@ -13,3 +13,11 @@ function substraction(a,b) {
 };
 
 console.log (substraction(6,1));
+
+// faire une multiplication
+
+function multiplication(a,b) {
+	return(a*b);
+};
+
+console.log (multiplication(9,4));
